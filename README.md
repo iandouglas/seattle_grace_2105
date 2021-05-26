@@ -21,7 +21,7 @@ pry(main)> meredith = Doctor.new({name: "Meredith Grey", specialty: "General Sur
 # => #<Doctor:0x00007f98a4ba8dc8...>
 
 pry(main)> meredith.name
-# => "Meredith Gray"
+# => "Meredith Grey"
 
 pry(main)> meredith.specialty
 # => "General Surgery"
